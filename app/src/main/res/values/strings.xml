@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PierwszaAplikacja</string>
+    <string name="clicka_me">Clicka me!</string>
+    <string name="ws">writa somethinga</string>
+    <string name="cb">Coma baka</string>
+    <string name="uc">Upper case</string>
+    <string name="on">I/O</string>
+</resources>
